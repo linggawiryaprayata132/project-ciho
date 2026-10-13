@@ -9,7 +9,7 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400..800&family=DM+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-	<link rel="stylesheet" href="{{ asset('css/ciho.css') }}?v=39">
+	<link rel="stylesheet" href="{{ asset('css/ciho.css') }}?v=58">
 </head>
 <body>
 	<svg class="visual-effects" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
